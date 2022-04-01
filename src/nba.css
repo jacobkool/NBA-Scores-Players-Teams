@@ -1,0 +1,33 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.nba-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+
+.can-select {
+    cursor: pointer;
+}
+
+.winner {
+    font-weight: bold;
+}
+
+.page-container {
+    margin: 25px 50px 75px;
+}
+
+.margins {
+    background-color: rgb(240, 248, 255);
+}
+
+.active {
+    color: black;
+}
