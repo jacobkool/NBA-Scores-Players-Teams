@@ -31,3 +31,7 @@
 .active {
     color: black;
 }
+
+input {
+    cursor: pointer;
+}
